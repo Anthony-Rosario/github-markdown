@@ -7,7 +7,7 @@ _does this work_
 1. for the sake 
 1. of listing things
 
-# Rnadom Subheading
+# Random Subheading
 
 ```js
 
